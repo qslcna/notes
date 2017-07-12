@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "log4net指南"
-date:   2017-07-12 09:49:01 -0600
+date:   2017-07-12 09:49:01 +0800
 categories: .NET
 ---
 
