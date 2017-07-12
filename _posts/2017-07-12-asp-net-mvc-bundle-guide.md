@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "asp.net bundle guide"
+title:  "asp.net bundle 指南"
 date:   2017-07-12 09:49:01 -0600
 categories: .NET
 ---
