@@ -14,6 +14,7 @@ categories: .NET
 1. 安装 *Microsoft.AspNet.Web.Optimization* package包
 1. 新建*App_Start\BundleConfig.cs*类
 
+
   ```c#
   using System.Web.Optimization;
   
@@ -57,6 +58,7 @@ categories: .NET
   ```
 
 1. 在服务端页面上加入以下脚本
+
 
   ```html
   <head>
