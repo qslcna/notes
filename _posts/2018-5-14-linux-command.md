@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "linux命令"
+date:   2018-05-14 15:32:01 +0800
+categories: linux
+---
+
 ## dpkg、rpm 和 apt-get、yum 的区别及使用
 ### 安装
 
