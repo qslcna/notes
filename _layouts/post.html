@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<article>
-    <h1>{{ post.title }}</h1>
-    <div>{{ content }}</div>
-</article>
+<div class="post">
+    <div class="toc">{% include toc.html html=content%}</div>
+    <article>
+        <h1>{{ post.title }}</h1>
+        <div>{{ content }}</div>
+    </article>
+</div>

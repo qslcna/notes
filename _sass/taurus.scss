@@ -30,8 +30,7 @@ header {
   }
 
   main {
-    margin: 0 200px 50px 200px;
-    padding:5px;
+    margin: 0 0 50px 0;
   }
 
   footer {
@@ -47,7 +46,5 @@ header {
     padding: 10px 50px;
   }
 
-  .post-summary {      
-      border-bottom: 1px solid #eff0f1;
-      padding: 12px 8px;
-  }
+  @import "taurus/home.scss";
+  @import "taurus/post.scss";
