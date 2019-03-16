@@ -1,14 +1,24 @@
-
 .post {
     margin: 0 0 0 200px;
-    padding:5px;
+    padding:30px;
 }
 
-.post .toc {
+.post-toc {
     position: absolute;
     left: 0;
     top: 50px;
     bottom: 50px;
     width: 200px;
     border-right: 1px solid #e1e4e8!important;
+    padding: 30px;
 }
+
+.post-toc li {
+    padding-left: 10px;
+}
+
+.post-header {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e1e4e8!important;
+}
+

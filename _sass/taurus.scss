@@ -1,13 +1,5 @@
-html {
-    height: 100%;
-}
-body {
-    min-height: 100%;
-    position: relative;
-    margin: 0;
-    /* prevent margin collapse */
-    padding-bottom: 1px; 
-    box-sizing: border-box;
+* {
+    word-break: break-all;
 }
 
 a {
@@ -15,25 +7,38 @@ a {
     color: inherit;
 }
 
+html {
+    height: 100%;
+}
 
-header {
+body {
+    min-height: 100%;
+    position: relative;
+    margin: 0;
+
+    /* prevent margin collapse */
+    padding-bottom: 1px;
+    box-sizing: border-box;
+}
+
+body > header {
     height: 50px;
     padding: 10px 50px;
     background-color: #24292e;
-    color: hsla(0,0%,100%,.75);
-    box-shadow: 0 2px 4px 1px rgba(0,0,0,0.5);
+    color: hsla(0, 0%, 100%, 0.75);
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.5);
     box-sizing: border-box;
-  }
-  
-  header a {
-    color: hsla(0,0%,100%,.75);
-  }
 
-  main {
+    a {
+        color: hsla(0, 0%, 100%, 0.75);
+    }
+}
+
+body > main {
     margin: 0 0 50px 0;
-  }
+}
 
-  footer {
+body > footer {
     position: absolute;
     left: 0;
     bottom: 0;
@@ -41,10 +46,10 @@ header {
     height: 50px;
     text-align: center;
     background-color: #24292e;
-    color: hsla(0,0%,100%,.75);
+    color: hsla(0, 0%, 100%, 0.75);
     box-sizing: border-box;
     padding: 10px 50px;
-  }
+}
 
-  @import "taurus/home.scss";
-  @import "taurus/post.scss";
+@import "taurus/home.scss";
+@import "taurus/post.scss";
