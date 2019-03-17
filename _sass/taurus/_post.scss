@@ -1,0 +1,39 @@
+.post {
+    margin: 0 0 0 $toc-width;
+    padding: 30px;
+}
+
+.post-toc {
+    position: absolute;
+    left: 0;
+    top: $header-height;
+    bottom: $footer-height;
+    width: $toc-width;
+    border-right: 1px solid #e1e4e8 !important;
+    padding: 30px;
+}
+
+.post-toc li {
+    padding-left: 10px;
+    word-break: break-all;
+}
+
+.post-header {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e1e4e8 !important;
+}
+
+pre {
+    overflow: auto;
+}
+
+@include media-query($on-palm) {
+    .post {
+        margin: 0 0 0 0;
+        padding: 30px;
+    }
+
+    .post-toc {
+        display: none;
+    }
+}

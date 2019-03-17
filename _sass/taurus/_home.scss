@@ -1,0 +1,22 @@
+.home {
+    margin: 0 200px;
+    padding: 5px;
+}
+
+.post-summary {
+    border-bottom: 1px solid #eff0f1;
+    padding: 12px 8px;
+}
+
+.pagination {
+    position: absolute;
+    height: $pagination-height;
+    bottom: $footer-height;
+}
+
+@include media-query($on-palm) {
+    .home {
+        margin: 0 50px;
+        padding: 5px;
+    }
+}

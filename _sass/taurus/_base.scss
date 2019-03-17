@@ -1,0 +1,43 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    position: relative;
+    margin: 0;
+
+    /* prevent margin collapse */
+    padding-bottom: 1px;
+    box-sizing: border-box;
+}
+
+.header {
+    height: $header-height;
+    padding: 10px 50px;
+    background-color: #24292e;
+    color: hsla(0, 0%, 100%, 0.75);
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+
+    a {
+        color: hsla(0, 0%, 100%, 0.75);
+    }
+}
+
+.main {
+    margin: 0 0  $footer-height + $pagination-height 0;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: $footer-height;
+    text-align: center;
+    background-color: #24292e;
+    color: hsla(0, 0%, 100%, 0.75);
+    box-sizing: border-box;
+    padding: 10px 50px;
+}

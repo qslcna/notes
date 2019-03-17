@@ -13,18 +13,18 @@ layout: default
   <div class="pagination">
     {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">
-      Previous
+      上一页
     </a>
     {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous">上一页</span>
     {% endif %}
     <span class="page_number ">
-      Page: {{ paginator.page }} of {{ paginator.total_pages }}
+      第: {{ paginator.page }} / {{ paginator.total_pages }} 页
     </span>
     {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
+    <a href="{{ paginator.next_page_path | relative_url }}" class="next">下一页</a>
     {% else %}
-    <span class="next ">Next</span>
+    <span class="next ">下一页</span>
     {% endif %}
   </div>
 </div>

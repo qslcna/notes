@@ -1,55 +1,25 @@
-* {
-    word-break: break-all;
-}
+@charset "utf-8";
 
-a {
-    text-decoration-line: none;
-    color: inherit;
-}
+// Define defaults for each variable.
 
-html {
-    height: 100%;
-}
+$on-palm: 600px !default;
+$on-laptop: 800px !default;
 
-body {
-    min-height: 100%;
-    position: relative;
-    margin: 0;
+$header-height: 50px !default;
+$toc-width: 250px !default;
+$pagination-height: 30px !default;
+$footer-height: 50px !default;
 
-    /* prevent margin collapse */
-    padding-bottom: 1px;
-    box-sizing: border-box;
-}
-
-body > header {
-    height: 50px;
-    padding: 10px 50px;
-    background-color: #24292e;
-    color: hsla(0, 0%, 100%, 0.75);
-    box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.5);
-    box-sizing: border-box;
-
-    a {
-        color: hsla(0, 0%, 100%, 0.75);
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
     }
 }
 
-body > main {
-    margin: 0 0 50px 0;
+@mixin relative-font-size($ratio) {
+    font-size: $base-font-size * $ratio;
 }
 
-body > footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    height: 50px;
-    text-align: center;
-    background-color: #24292e;
-    color: hsla(0, 0%, 100%, 0.75);
-    box-sizing: border-box;
-    padding: 10px 50px;
-}
-
+@import "taurus/base.scss";
 @import "taurus/home.scss";
 @import "taurus/post.scss";
