@@ -2,7 +2,7 @@
 layout: post
 title:  "Git 奇技淫巧"
 date:   2019-01-09 22:57:01 +0800
-categories: 工具
+categories: tools
 ---
 
 ## 使用交互式rebase整理commit

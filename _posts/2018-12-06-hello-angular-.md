@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Angular笔记
-categories: 前端
+categories: angular
 ---
 ## LocationStrategy
 

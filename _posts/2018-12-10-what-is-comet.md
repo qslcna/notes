@@ -1,7 +1,7 @@
 ---
 layout: post
 title : Web实时技术
-categories: Web
+categories: web
 ---
 ## 资源
 

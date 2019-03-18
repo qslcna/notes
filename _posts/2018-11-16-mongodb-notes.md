@@ -1,7 +1,8 @@
 ---
 layout: post
 title : MongoDB笔记
-categories: 数据库
+date: 2018-11-16 10:00:00 +0800
+categories: db
 ---
 
 ## 分组并选择每组中的前K个元素

@@ -2,7 +2,7 @@
 layout: post
 title:  ".Net 实用工具"
 date:   2019-01-09 21:23:01 +0800
-categories: .NET
+categories: dotnet
 ---
 
 ## 网络跟踪

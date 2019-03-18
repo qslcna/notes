@@ -2,7 +2,7 @@
 layout: post
 title:  "WPF"
 date:   2019-01-30 16:12:01 +0800
-categories: .NET
+categories: dotnet
 ---
 
 ## 链接

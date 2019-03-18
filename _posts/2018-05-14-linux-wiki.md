@@ -2,7 +2,7 @@
 layout: post
 title:  "Linux命令"
 date:   2018-05-14 15:32:01 +0800
-categories: Linux
+categories: linux
 ---
 
 # 文本处理

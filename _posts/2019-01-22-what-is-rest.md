@@ -2,7 +2,7 @@
 layout: post
 title:  "Restful"
 date:   2019-01-22 09:49:01 +0800
-categories: Architecture
+categories: pattern
 ---
 
 ## 参考

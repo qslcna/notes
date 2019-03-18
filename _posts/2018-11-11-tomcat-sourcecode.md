@@ -1,6 +1,8 @@
 ---
 layout: post
 title : Tomcat笔记
+date: 2018-11-11 10:00:00 +0800
+categories: java
 ---
 
 ## 入口

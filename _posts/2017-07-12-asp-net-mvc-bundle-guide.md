@@ -2,7 +2,7 @@
 layout: post
 title:  "Asp.net Bundle 指南"
 date:   2017-07-12 09:49:01 +0800
-categories: .NET
+categories: dotnet
 ---
 
 ## 资源

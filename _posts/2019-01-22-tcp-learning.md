@@ -2,7 +2,7 @@
 layout: post
 title:  "TCP协议"
 date:   2019-01-22 16:32:01 +0800
-categories: 网络
+categories: network
 ---
 
 ## 参考

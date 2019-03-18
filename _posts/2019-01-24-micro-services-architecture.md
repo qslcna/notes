@@ -2,7 +2,7 @@
 layout: post
 title:  "微服务"
 date:   2019-01-24 16:34:01 +0800
-categories: Architecture
+categories: pattern
 ---
 
 ## 链接

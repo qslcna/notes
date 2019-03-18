@@ -2,7 +2,7 @@
 layout: post
 title:  "数据库概念"
 date:   2017-07-12 09:49:01 +0800
-categories: 数据库
+categories: db
 ---
 
 

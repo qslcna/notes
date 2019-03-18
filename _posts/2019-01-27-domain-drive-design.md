@@ -2,7 +2,7 @@
 layout: post
 title:  "领域驱动设计"
 date:   2019-01-27 10:58:01 +0800
-categories: Architecture
+categories: pattern
 ---
 
 * [领域驱动设计(DDD) - HackerVirus - 博客园](https://www.cnblogs.com/Leo_wl/p/3866629.html)

@@ -2,7 +2,7 @@
 layout: post
 title:  "Java实用工具"
 date:   2019-01-16 06:45:01 +0800
-categories: Java
+categories: java
 ---
 
 ## jdb

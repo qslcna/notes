@@ -2,7 +2,7 @@
 layout: post
 title:  "Log4net指南"
 date:   2017-07-12 09:49:01 +0800
-categories: .NET
+categories: dotnet
 ---
 
 记录在使用log4net过程中遇到的问题
