@@ -32,3 +32,4 @@ categories: Java
 
 * [SpringBoot之@EnableConfigurationProperties分析 - 努力改变人生！ - CSDN博客](https://blog.csdn.net/zknxx/article/details/79183698)
 * [spring boot 源码解析11-ConfigurationClassPostProcessor类加载解析 - qq_26000415的博客 - CSDN博客](https://blog.csdn.net/qq_26000415/article/details/78917682)
+* [SpringBoot中使用jsp的坑 - 掘金](https://juejin.im/post/5ad21eb5f265da23945feb62)
