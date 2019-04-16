@@ -12,6 +12,7 @@ categories: Java
 * [Spring的BeanFactoryPostProcessor和BeanPostProcessor - caihaijiang的专栏 - CSDN博客](https://blog.csdn.net/caihaijiang/article/details/35552859)
 * [Spring 工具类 ConfigurationClassParser 是如何工作的 ？ - 冰山消融春游记 - CSDN博客](https://blog.csdn.net/andy_zhang2007/article/details/78549773)
 * [动态注册bean，Spring官方套路：使用ImportBeanDefinitionRegistrar - 知乎](https://zhuanlan.zhihu.com/p/30123517)
+* [java - Spring get current ApplicationContext - Stack Overflow](https://stackoverflow.com/q/21827548)
 
 ## aop
 * [Chapter 6. 使用Spring进行面向切面编程（AOP）](http://shouce.jb51.net/spring/aop.html)
