@@ -28,6 +28,7 @@ categories: Java
 ## web
 * [spring 注解验证@NotNull等使用方法 - 青蛙的博客 - CSDN博客](https://blog.csdn.net/qq920447939/article/details/80198438)
 * [Error Handling for REST with Spring &#124; Baeldung](https://www.baeldung.com/exception-handling-for-rest-with-spring)
+* [使用DeferredResult异步处理SpringMVC请求 - 知乎](https://zhuanlan.zhihu.com/p/31223106)
 
 # SpringBoot
 
