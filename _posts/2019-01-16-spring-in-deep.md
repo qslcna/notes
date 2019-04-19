@@ -31,6 +31,8 @@ categories: Java
 * [使用DeferredResult异步处理SpringMVC请求 - 知乎](https://zhuanlan.zhihu.com/p/31223106)
 * [SpringMVC源码之参数解析绑定原理 - 知乎](https://zhuanlan.zhihu.com/p/33780880)
 * [Spring Web入门及源码学习 - 井底之蛙（学而知不足,思而得远虑） - 归田 - CSDN博客](https://blog.csdn.net/qq924862077/column/info/13023)
+* [跟我学SpringMVC目录汇总贴 - 《亿级流量网站架构核心技术》~ - ITeye博客](https://jinnianshilongnian.iteye.com/blog/1617451)
+
 # SpringBoot
 
 * [SpringBoot之@EnableConfigurationProperties分析 - 努力改变人生！ - CSDN博客](https://blog.csdn.net/zknxx/article/details/79183698)
